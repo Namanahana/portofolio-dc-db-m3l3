@@ -35,4 +35,4 @@ Bot ini menggunakan **Python + discord.py** dengan database custom (`DB_Manager`
 ---
 
 ## 📂 Screenshot Proyek  
-![contoh tampilan bot](<img width="613" height="556" alt="Screenshot_2025-09-29_172626" src="https://github.com/user-attachments/assets/3e21dfed-488b-47f3-80b1-4ea8dcc08631" />)
+![contoh tampilan bot](https://github.com/user-attachments/assets/3e21dfed-488b-47f3-80b1-4ea8dcc08631)
